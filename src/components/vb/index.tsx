@@ -24,4 +24,4 @@ const vbContainer = () => {
   );
 }
 
-export default App;
+export default vbContainer;
