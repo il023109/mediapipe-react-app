@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
-import './App.css';
+//import './App.css';
 
-function App() {
+const vbContainer = () => {
   const inputVideoRef = useRef();
   const canvasRef = useRef();
   const contextRef = useRef();
